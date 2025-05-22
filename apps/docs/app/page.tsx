@@ -36,7 +36,7 @@ export default function Page() {
           examples/with-tailwind -&nbsp;
           <code className="font-mono font-bold">docs</code>
         </p>
-        <Button variant={"default"} size={"lg"} className="text-red-500">test</Button>
+        <Button variant={"default"} size={"lg"} className="text-spharos-white">test</Button>
         <div className="fixed bottom-0 left-0 flex items-end justify-center w-full h-48 lg:static lg:h-auto lg:w-auto">
           <a
             className="flex gap-2 p-8 pointer-events-none place-items-center lg:pointer-events-auto lg:p-0"
